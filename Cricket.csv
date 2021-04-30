@@ -1,0 +1,96 @@
+ConsecutiveWins,Season,Opposition_Others,Country,Ground,Home_Ground,Day_Night,PitchReport,BattingFirst,Combination Changed ,Pak_Win
+0,Summer,New Zealand,New Zealand,Wellington,No,Yes,bouncy,Yes,No,No
+0,Summer,New Zealand,South Africa,Queenstown,No,No,bouncy,Yes,No,No
+0,Summer,New Zealand,New Zealand,Christchurch,No,Yes,bouncy,Yes,No,Yes
+1,Summer,New Zealand,New Zealand,Napier,No,Yes,bouncy,No,No,Yes
+2,Summer,New Zealand,New Zealand,Hamilton,No,Yes,bouncy,Yes,No,Yes
+3,Summer,New Zealand,New Zealand,Auckland,No,No,bouncy,No,No,No
+0,Winter,Others,SriLanka,Hambantota,No,Yes,dry,Yes,Yes,Yes
+1,Winter,Sri Lanka,SriLanka,Colombo (RPS),No,Yes,dry,Yes,No,Yes
+2,Spring,Others,SriLanka,Colombo (RPS),No,Yes,dry,Yes,Yes,45
+3,Autumn,New Zealand,SriLanka,Pallekele,No,Yes,dry,No,,No
+A,Autumn,Zimbabwe,SriLanka,Pallekele,No,Yes,dry,No,,Yes
+1,Autumn,Australia,SriLanka,Colombo (RPS),No,Yes,dry,No,,Yes
+2,Spring,West Indies,Bandladesh,Dhaka,No,Yes,slow,No,,Yes
+3,Spring,India,India,Mohali,No,Yes,green,No,,No
+0,Spring,,West Indies,Gros Islet,,No,slow,,,
+1,Spring,West Indies,West Indies,Gros Islet,No,No,slow,No,,Yes
+2,Spring,West Indies,West Indies,Bridgetown,No,No,slow,No,,Yes
+3,Spring,West Indies,West Indies,Bridgetown,No,No,slow,Yes,,No
+0,Spring,West Indies,West Indies,Providence,No,No,slow,Yes,,No
+0,Spring,Others,Others,Belfast,No,No,green,No,,Yes
+1,Spring,Others,Others,Belfast,No,No,green,No,,Yes
+2,Spring,Zimbabwe,Zimbabwe,Bulawayo,No,No,slow,Yes,,Yes
+3,Spring,Zimbabwe,Zimbabwe,Harare,No,No,bouncy,No,,Yes
+4,Spring,Zimbabwe,Zimbabwe,Harare,No,No,bouncy,Yes,No,Yes
+B,Autumn,Sri Lanka,UAE,Dubai (DSC),No,Yes,dry,No,,Yes
+6,Autumn,Sri Lanka,UAE,Dubai (DSC),No,Yes,dry,No,,No
+0,Autumn,Sri Lanka,UAE,Dubai (DSC),No,Yes,dry,Yes,,Yes
+1,Autumn,Sri Lanka,UAE,Sharjah,No,Yes,dry,Yes,,Yes
+2,Autumn,Sri Lanka,UAE,Abu Dhabi,No,Yes,dry,No,,Yes
+3,Winter,Bangladesh,Bandladesh,Dhaka,No,Yes,slow,No,,Yes
+4,Winter,Bangladesh,Bandladesh,Dhaka,No,Yes,slow,Yes,,Yes
+5,Winter,Bangladesh,Bandladesh,Chittagong,No,Yes,slow,Yes,,Yes
+6,Winter,Others,UAE,Sharjah,No,Yes,dry,No,,Yes
+7,Winter,England,UAE,Abu Dhabi,No,Yes,dry,No,,No
+0,Winter,England,UAE,Abu Dhabi,No,Yes,dry,No,,No
+0,Winter,England,UAE,Dubai (DSC),No,Yes,dry,Yes,,No
+0,Winter,England,UAE,Dubai (DSC),No,Yes,dry,Yes,,ABC
+0,Spring,Bangladesh,Bandladesh,Dhaka,No,Yes,slow,Yes,,Yes
+1,Spring,Sri Lanka,Bandladesh,Dhaka,No,Yes,slow,No,,Yes
+2,Spring,India,Bandladesh,Dhaka,No,Yes,slow,Yes,,No
+0,Spring,Bangladesh,Bandladesh,Dhaka,No,Yes,slow,Yes,Yes,Yes
+1,Summer,Sri Lanka,SriLanka,Pallekele,No,Yes,dry,No,,Yes
+2,Summer,Sri Lanka,SriLanka,Pallekele,No,Yes,dry,No,,No
+0,Summer,Sri Lanka,SriLanka,Colombo (RPS),No,Yes,dry,Yes,,No
+0,Summer,Sri Lanka,SriLanka,Colombo (RPS),No,Yes,dry,No,,No
+0,Summer,Sri Lanka,SriLanka,Colombo (RPS),No,Yes,dry,Yes,,No
+0,Winter,Australia,UAE,Sharjah,No,Yes,dry,Yes,,No
+0,Winter,Australia,UAE,Abu Dhabi,No,Yes,dry,No,,Yes
+1,Spring,Australia,UAE,Sharjah,No,Yes,dry,Yes,,No
+0,Winter,India,India,Chennai,No,No,slow,No,,Yes
+1,Winter,India,India,Kolkata,No,Yes,slow,Yes,,Yes
+2,Winter,India,India,Delhi,No,Yes,slow,No,,No
+0,Autumn,South Africa,South Africa,Bloemfontein,No,No,bouncy,No,,No
+0,Autumn,South Africa,South Africa,Centurion,No,Yes,bouncy,No,,Yes
+1,Autumn,South Africa,South Africa,Johannesburg,No,No,bouncy,No,,No
+0,Autumn,South Africa,New Zealand,Durban,No,No,bouncy,No,,Yes
+1,Autumn,South Africa,South Africa,Benoni,No,No,bouncy,Yes,,No
+0,Spring,Others,England,Edinburgh,No,No,green,Yes,,Yes
+1,Spring,Others,Others,Dublin,No,No,green,Yes,,No
+0,Spring,Others,Others,Dublin,No,No,green,No,,Yes
+1,Summer,West Indies,England,The Oval,No,No,green,Yes,,No
+0,Winter,South Africa,England,Birmingham,No,Yes,green,No,,No
+0,Summer,India,England,Birmingham,No,No,green,Yes,,No
+0,Summer,West Indies,West Indies,Providence,No,No,slow,Yes,,Yes
+1,Summer,West Indies,West Indies,Providence,No,No,slow,No,,No
+0,Summer,West Indies,West Indies,Gros Islet,No,No,glow,Yes,,No
+0,Summer,West Indies,West Indies,Gros Islet,No,No,slow,No,,Yes
+1,Summer,West Indies,West Indies,Gros Islet,No,No,slow,No,,Yes
+2,Winter,Zimbabwe,Zimbabwe,Harare,No,No,bouncy,Yes,,No
+0,Winter,Zimbabwe,Zimbabwe,Harare,No,No,bouncy,Yes,,Yes
+1,Winter,Zimbabwe,Zimbabwe,Harare,No,No,bouncy,Yes,,Yes
+2,Spring,South Africa,UAE,Sharjah,No,Yes,dry,No,,No
+0,Spring,South Africa,UAE,Dubai (DSC),No,Yes,dry,Yes,,Yes
+1,Spring,South Africa,UAE,Abu Dhabi,No,Yes,dry,No,,No
+0,Spring,South Africa,UAE,Abu Dhabi,No,Yes,dry,No,No,No
+0,Spring,South Africa,UAE,Sharjah,No,Yes,dry,No,,No
+0,Spring,South Africa,South Africa,Cape Town,No,No,bouncy,Yes,,Yes
+1,Spring,South Africa,South Africa,Port Elizabeth,No,No,bouncy,Yes,,Yes
+2,Spring,South Africa,South Africa,Centurion,No,No,bouncy,Yes,,No
+0,Winter,Sri Lanka,UAE,Sharjah,No,Yes,dry,Yes,,Yes
+1,Winter,Sri Lanka,UAE,Dubai (DSC),No,Yes,dry,Yes,,No
+0,Winter,Sri Lanka,UAE,Sharjah,No,Yes,dry,Yes,,Yes
+1,Winter,Sri Lanka,UAE,Abu Dhabi,No,Yes,dry,No,,Yes
+2,,Sri Lanka,UAE,Abu Dhabi,No,Yes,dry,Yes,,No
+0,Winter,Sri Lanka,Bandladesh,Fatullah,No,Yes,slow,No,,No
+0,Winter,Others,Bandladesh,Fatullah,No,Yes,slow,Yes,,Yes
+1,Spring,India,Bandladesh,Dhaka,No,Yes,slow,No,,Yes
+2,Spring,Bangladesh,Bandladesh,Dhaka,No,Yes,slow,No,,Yes
+3,Spring,Sri Lanka,Bandladesh,Dhaka,No,Yes,slow,Yes,,No
+0,Summer,Sri Lanka,SriLanka,Hambantota,No,No,shy,No,,Yes
+1,Summer,Sri Lanka,SriLanka,Hambantota,No,Yes,dry,No,,No
+0,Summer,Sri Lanka,SriLanka,Dambulla,No,No,dry,Yes,,No
+0,Spring,Australia,UAE,Sharjah,No,Yes,dry,No,,No
+0,Spring,Australia,UAE,Dubai (DSC),No,Yes,dry,Yes,,No
+0,Spring,Australia,UAE,Abu Dhabi,No,Yes,dry,No,,No
